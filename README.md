@@ -1,2 +1,2 @@
 # Movies
-Android MVVM, Clean Architecture project
+Android MVVM, Clean Architecture project (Udemy Course)
