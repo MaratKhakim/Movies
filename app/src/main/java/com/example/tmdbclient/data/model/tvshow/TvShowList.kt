@@ -1,5 +1,6 @@
-package com.example.tmdbclient.data
+package com.example.tmdbclient.data.model.tvshow
 
+import com.example.tmdbclient.data.model.tvshow.TvShow
 import com.google.gson.annotations.SerializedName
 
 data class TvShowList(
